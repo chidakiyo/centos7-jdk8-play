@@ -2,7 +2,7 @@
 # VERSION 0.0.1
 #
 
-FROM chidakiyo:centos7-oracle-jdk8
+FROM chidakiyo/centos7-oracle-jdk8
 MAINTAINER chidakiyo "chidakiyo@gmail.com"
 
 # activator
